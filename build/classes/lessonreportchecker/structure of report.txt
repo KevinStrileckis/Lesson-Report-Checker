@@ -1,0 +1,16 @@
+12 garbage lines
+scrambled name plus 3 garbage chars
+20 garbage lines
+name plus garbage chars
+1 garbage line
+scrambled name plus 2 garbage chars
+all scores on separate lines scramble(score + question)
+1 garbage line
+totalTotal / 2
+totalAnswers
+time
+25 garbage lines
+30 garbage lines
+
+
+the second classification topology builds upon the first
